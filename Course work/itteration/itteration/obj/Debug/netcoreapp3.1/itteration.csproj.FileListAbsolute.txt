@@ -1,0 +1,13 @@
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\itteration\itteration\bin\Debug\netcoreapp3.1\itteration.exe
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\itteration\itteration\bin\Debug\netcoreapp3.1\itteration.deps.json
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\itteration\itteration\bin\Debug\netcoreapp3.1\itteration.runtimeconfig.json
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\itteration\itteration\bin\Debug\netcoreapp3.1\itteration.runtimeconfig.dev.json
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\itteration\itteration\bin\Debug\netcoreapp3.1\itteration.dll
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\itteration\itteration\bin\Debug\netcoreapp3.1\itteration.pdb
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\itteration\itteration\obj\Debug\netcoreapp3.1\itteration.csprojAssemblyReference.cache
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\itteration\itteration\obj\Debug\netcoreapp3.1\itteration.AssemblyInfoInputs.cache
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\itteration\itteration\obj\Debug\netcoreapp3.1\itteration.AssemblyInfo.cs
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\itteration\itteration\obj\Debug\netcoreapp3.1\itteration.csproj.CoreCompileInputs.cache
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\itteration\itteration\obj\Debug\netcoreapp3.1\itteration.dll
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\itteration\itteration\obj\Debug\netcoreapp3.1\itteration.pdb
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\itteration\itteration\obj\Debug\netcoreapp3.1\itteration.genruntimeconfig.cache

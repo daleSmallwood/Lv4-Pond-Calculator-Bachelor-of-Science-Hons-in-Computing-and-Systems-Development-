@@ -1,0 +1,10 @@
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\login system\login system\bin\Debug\login system.exe.config
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\login system\login system\bin\Debug\login system.exe
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\login system\login system\bin\Debug\login system.pdb
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\login system\login system\obj\Debug\login system.csprojAssemblyReference.cache
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\login system\login system\obj\Debug\login_system.Form1.resources
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\login system\login system\obj\Debug\login_system.Properties.Resources.resources
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\login system\login system\obj\Debug\login system.csproj.GenerateResource.cache
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\login system\login system\obj\Debug\login system.csproj.CoreCompileInputs.cache
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\login system\login system\obj\Debug\login system.exe
+C:\Users\dales\Dropbox\My PC (LAPTOP-D0497OJ7)\Desktop\Dales course work\year 1\codin\login system\login system\obj\Debug\login system.pdb
